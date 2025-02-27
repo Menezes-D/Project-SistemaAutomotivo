@@ -1,4 +1,4 @@
-# Sistema de Cadastro de Veículos
+# Sistema Básico de Cadastro de Veículos
 
 Este sistema permite o cadastro, atualização, consulta e exclusão de veículos. Ele foi desenvolvido utilizando o Spring Boot para o back-end, com um banco de dados MySQL para persistência dos dados.
 
